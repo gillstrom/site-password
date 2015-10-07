@@ -1,0 +1,53 @@
+{
+  "name": "site-password",
+  "version": "0.0.0",
+  "description": "Retrieve a saved password for a site in OS X Keychain",
+  "license": "MIT",
+  "repository": "gillstrom/site-password",
+  "author": {
+    "name": "Andreas Gillström",
+    "email": "andreasgillstrom@gmail.com",
+    "url": "github.com/gillstrom"
+  },
+  "bin": "cli.js",
+  "engines": {
+    "node": ">=0.12.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "keywords": [
+    "apple",
+    "cli",
+    "cli-app",
+    "forgot",
+    "get",
+    "internet",
+    "keychain",
+    "lost",
+    "mac",
+    "osx",
+    "password",
+    "pw",
+    "retrieve",
+    "saved",
+    "site"
+  ],
+  "dependencies": {
+    "meow": "^3.3.0",
+    "pify": "^2.2.0"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  },
+  "xo": {
+    "ignores": [
+      "test.js"
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name": "site-password",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Retrieve a saved password for a site in OS X Keychain",
   "license": "MIT",
   "repository": "gillstrom/site-password",

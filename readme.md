@@ -1,6 +1,6 @@
 # site-password
 
-> Retrieve a saved password for a site in OS X Keychain
+> Retrieve your password for a site saved in OS X Keychain
 
 
 ## CLI

@@ -38,7 +38,7 @@
     "site"
   ],
   "dependencies": {
-    "meow": "^3.3.0",
+    "meow": "^3.4.1",
     "pify": "^2.2.0"
   },
   "devDependencies": {
